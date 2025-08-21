@@ -23,6 +23,7 @@ This repository contains practice exercises around vector embeddings and similar
 │   └── ...              # Code/notebooks to generate or test embeddings
 ├── Assignment_Gen_AI_VectorDB.ipynb
 ├── Assignment_GEN_AI_VECTOR_DB.docx
+├── Vector_Database_Challenge_Euron.docx
 ├── requirements.txt
 └── README.md
 ```
@@ -41,8 +42,8 @@ This repository contains practice exercises around vector embeddings and similar
 2. **Create & activate virtual environment:**
 
    ```bash
-   conda create -n VectorDBVenv python==3.10  # I have kept virtual env name as VectorDBVenv for remebering.
-   conda activate VectorDBVenv   # activate python enviornment
+   python -m venv venv
+   source venv/bin/activate   # On Windows, use: venv\Scripts\activate
    ```
 
 3. **Install dependencies:**
@@ -66,7 +67,7 @@ This repository contains practice exercises around vector embeddings and similar
 - **Data/** → Example datasets for embedding practice.  
 - **Embedding/** → Scripts/notebooks demonstrating embedding generation, FAISS & Qdrant usage.  
 - **Assignment_Gen_AI_VectorDB.ipynb** → Notebook with hands-on vector database practice.  
-- **Assignment_GEN_AI_VECTOR_DB.docx** → Practice assignment.  
+- **Assignment_GEN_AI_VECTOR_DB.docx** → Practice Question.  
 - **requirements.txt** → Dependencies list.  
 
 ---
