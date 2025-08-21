@@ -1,0 +1,641 @@
+00:02:31	Shahid Raza:	Hi Sir good morning
+00:02:59	Challagundla Sreenivasulu:	Good Morning Sir
+00:03:18	Asish Kumar Nayak:	good morning sir
+00:03:18	Sharanya Manohar:	Good morning sir
+00:03:31	Amarendra Kushwaha:	good morning to all
+00:03:43	Milind Patle:	Good Morning Sir
+00:04:09	Chakresh Kumar Vulli:	Good Morning Sir
+00:04:10	Abhisheek Dutta:	Good Morning Sir
+00:04:16	ganesh Sahu:	Very Good morning Euron
+00:04:22	Avinash Adsare:	GM all
+00:04:29	piyush nandan:	good morning sir
+00:04:41	Shahid Raza:	yes very much
+00:04:54	piyush nandan:	yes sir visible
+00:05:01	Ranjit Batra:	Morning
+00:05:15	Krishna Aleti:	Good Morning Sir
+00:05:19	Mandar Aarondekar:	good morning sir
+00:05:39	Armaan Shaikh:	morning sir
+00:05:58	piyush nandan:	I missed yesterday class
+00:06:47	piyush nandan:	ok sir
+00:06:53	Syed Waquaruddin:	yes
+00:06:54	Armaan Shaikh:	s
+00:06:55	Anoop Kumar Sharma:	yessss
+00:06:55	piyush nandan:	yes sir
+00:06:55	Arunprasaad Chandrasekaran:	yes sire
+00:06:56	Veerendra Shukla:	I watched it , it was amazing class/recording
+00:06:56	Shahid Raza:	yes
+00:08:39	Amarendra Kushwaha:	yes
+00:08:41	Ritesh Kumar:	yes sir
+00:08:41	Shivam Makwana:	yes
+00:08:42	Vikash Kumar:	plz use Qdrant as well in later phase
+00:08:43	Akhtar Nadeem:	yes
+00:08:48	Veerendra Shukla:	yes
+00:08:50	Shahid Raza:	yes
+00:08:55	Manish D:	yes
+00:08:55	piyush nandan:	plz start
+00:08:58	Anoop Kumar Sharma:	yes
+00:09:00	Krishna Aleti:	fullform once again pls
+00:09:21	kartik mojhindru:	neo4j?
+00:09:45	Rameshkumar Sellamuthu:	mongodb
+00:10:04	Vikash Kumar:	multimodel embedding working and it'ssimilarity extortion, have some confusion plz include this in detailed
+00:10:11	Vinoth Karunakaran:	Elasticsearch?
+00:10:53	Veerendra Shukla:	yes
+00:10:53	Amarendra Kushwaha:	yes
+00:10:53	Shahid Raza:	yes
+00:10:57	Pavan Kumar Majji:	yes
+00:11:02	Manish D:	so all database comes under Vectore databae ?
+00:12:34	Veerendra Shukla:	I have /opt/anaconda3/bin/python
+00:12:54	Manish D:	purpose of anaconda ?
+00:13:36	sudhanshu kumar:	https://www.anaconda.com/download/success
+00:13:44	sudhanshu kumar:	https://www.anaconda.com/download/success
+00:14:51	Amarendra Kushwaha:	which one download
+00:15:10	Amarendra Kushwaha:	distribution yaa minicode
+00:17:00	Raghu Teja:	Should we add anaconda3 to environment path variables?
+00:17:01	mukesh kumar:	we can down anyone right sire, miniconda or distribution installler
+00:18:14	navneet kumar:	what is distributed installer
+00:18:24	Manish D:	we have downloaded from distribution installers
+00:18:42	Armaan Shaikh:	how to check if we have conda installed ?
+00:19:02	sudhanshu kumar:	https://www.anaconda.com/download/success
+00:19:05	Armaan Shaikh:	how to check if we have conda installed ?
+00:19:09	Avinash Adsare:	Done
+00:19:26	Manish G:	sir I have anaconda navigatior
+00:19:30	Shambhu jha:	conda --version
+00:19:57	Krishnapratap Vedula:	What is the use of Anaconda?
+00:20:25	Shambhu jha:	I have anconda installed.. how to get it's navigation UI link?
+00:20:25	Gopi Krishna Pujari:	yes done sir
+00:20:26	Veerendra Shukla:	yes
+00:20:27	Manish D:	wait for moment..still downloading
+00:20:30	Syed Waquaruddin:	yes
+00:20:31	GALI MALLIKARJUNA REDDY:	yes
+00:20:37	Prabhakar Kumar:	yes plz
+00:20:41	Prabhakar Kumar:	taking some time
+00:20:52	Siddhartha Borpuzari:	In google colab how to do it  env set u?
+00:20:54	Vijay Rangvani:	Done
+00:20:57	navneet kumar:	why i am downloading this
+00:21:16	mukesh kumar:	can we keep in D drive rather than C?
+00:21:18	Abhrajit Pal:	which version of python we are going to use
+00:21:27	navneet kumar:	is it like jypter note book
+00:21:57	navneet kumar:	i missed class
+00:22:03	Saiyam jain:	sir other than conda if we rely on virtual env creation is it fine ? since there is restriction of installing conda in our org
+00:22:14	Ashish Maurya:	its 900MB taking too much time
+00:22:18	Anil M:	Sorry I joined bit late, Miniconda or Distribution ?
+00:22:18	Challagundla Sreenivasulu:	sir mine got stuck here since a while
+00:22:20	Shambhu jha:	we can create different virtual env directly using python also right?
+00:22:25	Sharanya Manohar:	Sir my conda version is - conda 4.12.0, should I need to download latest one??
+00:22:33	Manish D:	roast kar dijiye ek bar
+00:22:39	Suhashreddy Gottikati:	is it similar to having a virtual environment?
+00:22:40	Saiyam jain:	in my personal laptop it got hang I have tried there too
+00:23:10	muhammad arslan:	sir what about poetry?
+00:23:13	Amitabh Jana:	sir if i download miniconda
+00:23:15	Ajsal Mohammed T S:	can we use the pyenv(virtual env where we can control the python version) instead of conda
+00:23:19	Shambhu jha:	python3 -m venv venv
+source venv/bin/activate
+00:23:27	Amitabh Jana:	and use it on code
+00:23:34	mukesh kumar:	can we keep installation in D drive rather than C drive?
+00:23:38	Ganesh Patil:	My office laptop not allowing me to download..... as of now is it fine with normal python env.
+00:23:51	Rajeev Dubey:	which option need to check All users or Just Me
+00:25:07	sudhanshu kumar:	conda create -n vecotordb python=3.10
+00:26:08	Vijay Gurung:	sir, always better to go above 3.10 above python version to create env.
+00:26:28	Akash G:	what is your system storage and ram?
+00:27:01	Veerendra Shukla:	yes
+00:27:01	Vijay Rangvani:	yes sir
+00:27:01	mukesh kumar:	getting error
+00:27:02	Nagendra Reddy:	yes
+00:27:04	Abhisheek Dutta:	Yes
+00:27:04	Amitabh Jana:	Yes
+00:27:05	Rajesh Sharma:	so, now system is having multiple python version, on day 1 we downloaded 3.10 and now anaconda with 3.13. So, we can use any of these for venv.
+00:27:24	Sarfaraz A:	VS code command terminal it is not working doesn't recognise commandbut working in anaconda prompt?conda --version
+00:27:26	Mustafa Kamaal:	Why not simply use pip to crate venv??
+00:28:15	Ritesh Kumar:	The term 'conda' is not recognized --- I am getting this error
+00:28:28	Veerendra Shukla:	yes
+00:28:30	Armaan Shaikh:	s
+00:28:32	Challagundla Sreenivasulu:	sir can paste that code here to reate
+00:28:33	Krishna Aleti:	Yes
+00:28:53	Challagundla Sreenivasulu:	*Create
+00:28:59	Ritesh Kumar:	Anaconda is already installed sir
+00:29:03	Ritesh Kumar:	i just checked
+00:29:11	Sarfaraz A:	no it is installed
+00:29:16	muhammad arslan:	set environment variable in window
+00:29:33	Sharanya Manohar:	I'm getting this error AttributeError: module 'lib' has no attribute 'X509_V_FLAG_NOTIFY_POLICY'
+00:30:40	Akhtar Nadeem:	For me still installation is happening
+00:30:42	ravi teja:	I able to create environment in temrnial but I am not able to see the environment  while drop down at the tip
+00:30:44	Akhtar Nadeem:	How much time needed
+00:31:02	Supreeth Shetty:	dependencies
+00:31:30	sudhanshu kumar:	pip install faiss-cpu
+00:32:01	Amarendra Kushwaha:	no
+00:32:01	Veerendra Shukla:	Not yet
+00:32:02	Rakesh Patil:	No
+00:32:03	Rajesh Sharma:	yes
+00:32:04	GALI MALLIKARJUNA REDDY:	s
+00:32:04	Biswatosh Samal:	yes
+00:32:05	Dr Girish Supekar:	yes
+00:32:05	Krishna Aleti:	Done
+00:32:05	GALLA VENKAT:	yes
+00:32:06	piyush nandan:	yes sir
+00:32:06	Veerendra Shukla:	done
+00:32:06	GALI MALLIKARJUNA REDDY:	s
+00:32:08	GALI MALLIKARJUNA REDDY:	s
+00:32:09	Supreeth Shetty:	yes sir
+00:32:09	Mustafa Kamaal:	yes
+00:32:10	Milind Patle:	yes
+00:32:11	Vijay Rangvani:	No
+00:32:11	Chakresh Kumar Vulli:	no
+00:32:14	Ritesh Kumar:	yes sir
+00:32:14	Joe Wilson:	yes
+00:32:19	sudhanshu kumar:	pip install faiss-cpu
+00:32:31	Rajesh Sharma:	does faiss also has gpu version
+00:32:34	Amarendra Kushwaha:	done
+00:32:35	Siddhartha Borpuzari:	done in google colab
+00:32:40	Krishna Aleti:	Guys pls mark the msg to Host and Panelists
+00:32:49	Gopi Krishna Pujari:	Installed in my system sir
+00:32:57	Challagundla Sreenivasulu:	Cell In[3], line 1    pip install faiss-cpu        ^SyntaxError: invalid syntax
+00:33:07	kaushal gupta:	Why we need separate vector database.we can store in convention database
+00:33:10	sudhanshu kumar:	pip install numpy requests
+00:33:16	Mustafa Kamaal:	Yes done
+00:33:17	saurav lakra:	sir in every new  environment we have to install dependencies separately. or once we had installed we can use it in any environment.
+00:33:27	Amarendra Kushwaha:	done
+00:33:39	Challagundla Sreenivasulu:	sir am getting below error
+00:33:40	Challagundla Sreenivasulu:	Cell In[3], line 1    pip install faiss-cpu        ^SyntaxError: invalid syntax
+00:33:41	Veerendra Shukla:	It says “Note: you may need to restart the kernel to use updated packages.”
+00:33:52	Akhtar Nadeem:	conda create -n vecotordb python=3.10 installation is still running for me from last 5 min ,,,why?
+00:34:03	Saranya Sittra:	i get this error python -1,-1-1
+00:34:09	Veerendra Shukla:	sure
+00:34:10	Anoop Kumar Sharma:	I already have conda but might be issue with the path variable. Doing it directly for now
+00:34:11	Armaan Shaikh:	done
+00:34:17	mukesh kumar:	ValueError: The python kernel does not appear to be a conda environment.  Please use ``%pip install`` instead.
+00:34:39	GALI MALLIKARJUNA REDDY:	sir little bit fast
+00:37:08	Armaan Shaikh:	sir this pipeline have you covered in any batch or course
+00:38:25	Satish K:	to read data from pdfs do we need to perform ocr on it?
+00:38:30	Mustafa Kamaal:	Give us YRL, we will copy from there
+00:38:30	sudhanshu kumar:	data = """Making an ImpactHelping Millions of Students SucceedSudhanshu's commitment to affordable education wasn't just a business strategy—it was his life's mission. Over the years, iNeuron has helped over 1.5 million students from 34+ countries, providing them with the skills they need to succeed in today's competitive job market. Many of these students, like Sudhanshu himself, came from disadvantaged backgrounds. They saw iNeuron as a lifeline—an opportunity to rise above their circumstances.In 2022, iNeuron was acquired by PhysicsWallah in a deal worth ₹250 crore. While this acquisition was a significant milestone, Sudhanshu remained focused on his mission. Even after the acquisition, iNeuron continued to offer some of the most affordable and accessible tech courses in the world."""
+00:40:15	Vikash Kumar:	yes
+00:40:15	Amarendra Kushwaha:	yes
+00:40:18	Krishna Aleti:	yes
+00:40:19	Veerendra Shukla:	yes
+00:40:20	Anil M:	sure
+00:40:21	Armaan Shaikh:	repeat once about chunks please
+00:40:22	GALI MALLIKARJUNA REDDY:	sss
+00:40:24	Shahid Raza:	yes
+00:40:24	Supreeth Shetty:	yes sir..
+00:43:05	Manish D:	not much difference after applying strip()
+00:43:25	Veerendra Shukla:	Why are we breaking into small chunks?
+00:44:58	Mustafa Kamaal:	Sir the data is in a comment format because of “”””
+00:44:59	Arunava Nag:	chunks regardless of where the FULLSTOP ends ?? how does this work correctly without punctuation context ?
+00:45:04	Krishna Aleti:	pls explain overlap again
+00:45:54	Armaan Shaikh:	<= len
+00:49:24	Krishna Aleti:	pls explain overlap
+00:49:53	Veerendra Shukla:	yes
+00:49:55	Anil M:	yes
+00:49:59	Syed Waquaruddin:	yes
+00:50:00	Dr Girish Supekar:	yes
+00:50:07	Krishna Aleti:	why is overllap needed?
+00:50:07	Arunava Nag:	but the text length u gave is already less than 800 !... can we change the metrics ?
+00:50:09	Amarendra Kushwaha:	got it
+00:50:12	Sulaxmi R:	Why do we need to maintain overlap?
+00:50:13	Vijay Rangvani:	clear
+00:50:14	Anoop Kumar Sharma:	How to decided the overlap size.. like here you set it 100
+00:50:15	Nagendra Reddy:	Could you repeat
+00:50:16	navneet kumar:	not gettinh
+00:50:16	Armaan Shaikh:	repeat once
+00:50:18	Ritesh Kumar:	please explain overlap once again?
+00:50:24	navneet kumar:	getting
+00:50:30	Veerendra Shukla:	Why are we chunking ?
+00:50:33	Sarfaraz A:	yes
+00:50:34	Armaan Shaikh:	repeat once please
+00:50:36	Rameshkumar Sellamuthu:	got it
+00:50:37	GALLA VENKAT:	explain again overlap?
+00:50:48	Manish D:	size earlier 1498after strip- 1501
+00:50:52	Priyanka Kamble:	sir please explain chunking happens in table or db also
+00:51:07	Sakti Mishra:	sir here we have hardcoded overlap ,how to find overlap value
+00:51:42	Rameshkumar Sellamuthu:	you gave 789 characters, not fully sir
+00:51:49	Rameshkumar Sellamuthu:	*pasted
+00:52:03	Amarendra Kushwaha:	no sir we receive only 790 data len
+00:52:15	Manish D:	pls show one more time..where to modify
+00:52:29	rahul das:	sir, how do we decide in a live project how many chunks are needed to be created for optimum performance ,are there any methods ??
+00:52:41	mukesh kumar:	sir, how you have deal spaces or new line ?
+00:52:42	Prodip Sarkar:	Any difference btw langchain_chunks library and manual chucking?
+00:52:43	Siddhartha Borpuzari:	len(chunks) is 2 for me
+00:52:45	Challagundla Sreenivasulu:	Cell In[18], line 5    while i<len(clean_data)                           ^SyntaxError: expected ':'
+00:52:52	Veerendra Shukla:	What package should be used for data cleaning? Pandas ?
+00:52:53	Challagundla Sreenivasulu:	max_char = 300overlap = 100chunks = []i=0while i<len(clean_data)    piece = clean_data[i:i+max_char]    chunks.append(piece)    i = i+max_char-overlap
+00:53:02	sudhanshu kumar:	max_char = 300overlap = 100chunks = []i = 0while i <len(clean_data):    piece = clean_data[i:i+max_char]    chunks.append(piece)    i = i+max_char - overlap
+00:53:02	Prodip Sarkar:	Any difference btw langchain_chunks library and manual chucking?
+00:53:06	mukesh kumar:	in this datasets are there overlap also
+00:53:14	sudhanshu kumar:	clean_data = data.strip()len(clean_data)
+00:53:52	Prodip Sarkar:	Any difference btw langchain_chunks function and manual chucking?
+00:55:10	Shilpi Agarwal:	Need to remove /n
+00:57:20	Shilpi Agarwal:	Can we use other embedding
+00:57:21	Amit Kumar:	Can you pls paste above code pls?
+00:57:22	Amarendra Kushwaha:	yes
+00:57:27	Krishna Aleti:	iterate over loops in chunks
+00:57:32	Supreeth Shetty:	yes sir..
+00:57:34	Anoop Kumar Sharma:	yes.. done
+00:57:39	Shivam Makwana:	yeah
+00:58:57	Syed Waquaruddin:	yes
+00:58:58	Vijay Rangvani:	yes sir
+00:58:59	Veerendra Shukla:	yes
+00:59:00	Manish D:	yes
+00:59:00	Anoop Kumar Sharma:	yes
+00:59:01	Aruna Kumar Behera:	yes
+00:59:04	Gopi Krishna Pujari:	yes sir
+00:59:10	Lokesh Naidu:	yes sir
+00:59:13	Challagundla Sreenivasulu:	---------------------------------------------------------------------------KeyError                                  Traceback (most recent call last)Cell In[22], line 24     20     return embedding     22 text = "The weather is sunny today."---> 24 embedding = generate_embeddings(text)
+00:59:27	Veerendra Shukla:	ok
+00:59:30	Challagundla Sreenivasulu:	sir am getting this error
+01:00:20	Challagundla Sreenivasulu:	---------------------------------------------------------------------------KeyError                                  Traceback (most recent call last)Cell In[22], line 24     20     return embedding     22 text = "The weather is sunny today."---> 24 embedding = generate_embeddings(text)
+01:00:22	sudhanshu kumar:	for i in chunks:    embedding = generate_embeddings(i)    print(embedding)
+01:00:24	Syed Waquaruddin:	done
+01:00:25	Sulaxmi R:	yes
+01:00:25	Gopi Krishna Pujari:	done sir
+01:00:29	Manish D:	yes
+01:00:56	Veerendra Shukla:	done
+01:01:01	Vijay Rangvani:	done sir
+01:01:02	sudhanshu kumar:	pip install faiss-cpu
+01:01:08	sudhanshu kumar:	pip install numpy requests
+01:01:20	sudhanshu kumar:	data = """Making an ImpactHelping Millions of Students SucceedSudhanshu's commitment to affordable education wasn't just a business strategy—it was his life's mission. Over the years, iNeuron has helped over 1.5 million students from 34+ countries, providing them with the skills they need to succeed in today's competitive job market. Many of these students, like Sudhanshu himself, came from disadvantaged backgrounds. They saw iNeuron as a lifeline—an opportunity to rise above their circumstances.In 2022, iNeuron was acquired by PhysicsWallah in a deal worth ₹250 crore. While this acquisition was a significant milestone, Sudhanshu remained focused on his mission. Even after the acquisition, iNeuron continued to offer some of the most affordable and accessible tech courses in the world."""
+01:01:37	sudhanshu kumar:	clean_data = data.strip()len(clean_data)
+01:01:39	sudhanshu kumar:	max_char = 300overlap = 100chunks = []i = 0while i <len(clean_data):    piece = clean_data[i:i+max_char]    chunks.append(piece)    i = i+max_char - overlap
+01:01:56	sudhanshu kumar:	import requestsimport numpy as npdef generate_embeddings(text):    url = "https://api.euron.one/api/v1/euri/embeddings"    headers = {        "Content-Type": "application/json",        "Authorization": "Bearer d0ab6fea2bfd"    }    payload = {        "input": text,        "model": "text-embedding-3-small"    }    response = requests.post(url, headers=headers, json=payload)    data = response.json()        embedding = np.array(data['data'][0]['embedding'])        return embedding
+01:02:04	sudhanshu kumar:	for i in chunks:    embedding = generate_embeddings(i)    print(embedding)
+01:02:14	Veerendra Shukla:	yes
+01:02:16	Anoop Kumar Sharma:	yes done
+01:02:16	naresh kumar:	yes
+01:02:19	Syed Waquaruddin:	yes
+01:02:20	Pratyush Srivastava:	yes
+01:02:21	Amarendra Kushwaha:	yes
+01:02:22	Shivam Makwana:	yes
+01:02:23	Rameshkumar Sellamuthu:	yes
+01:02:25	Vijay Rangvani:	yes
+01:02:30	Gopi Krishna Pujari:	yes done sir
+01:02:33	Shahid Raza:	embedding mean that data they will give us in binary format is that correct?
+01:02:53	Challagundla Sreenivasulu:	done sir..
+01:02:54	Anoop Kumar Sharma:	Does each word in the chunk is consider as Token (Api usage perspective)
+01:03:28	Krishna Aleti:	overlap concept is a bit unclear, if you dont mind pls explain for 2mns
+01:03:32	Amit Kumar:	5 mins break pls
+01:03:40	Veerendra Shukla:	Please proceed
+01:03:43	Amit Zala:	what faiss-cpu do?
+01:04:11	Avinash Adsare:	done
+01:04:45	rahul das:	Sir its better to upload the entire script into git , all student can get from there , we used to follow in FSDS class inuron , else everyone keep asking the code , plz ignore if this not possible
+01:05:40	Rameshkumar Sellamuthu:	we familiar
+01:06:26	Manish D:	it gives the id of each row
+01:08:04	Rameshkumar Sellamuthu:	no audia
+01:10:00	sudhanshu kumar:	emb_list = []meta= []for idx,chunk in enumerate(chunks):    vec = generate_embeddings(chunk)    emb_list.append(vec.astype("float32"))        meta.append({"id": idx, "text": chunk})
+01:10:09	Amarendra Kushwaha:	yes
+01:10:09	Veerendra Shukla:	yes
+01:10:20	kartik mojhindru:	where can we check the compatible data types for these dbs?
+01:10:28	Gopi Krishna Pujari:	yes done sir
+01:10:33	Arunava Nag:	pls explain once again significance of meta list
+01:11:27	Shambhu jha:	why conversion to float?
+01:11:55	sudhanshu kumar:	xb = np.vstack(emb_list)
+01:12:31	sudhanshu kumar:	import faiss
+01:12:38	Arunava Nag:	why vstack is reqd ?
+01:13:23	Manish D:	where is xb defined?
+01:13:26	Prabhakar Kumar:	what does it mean of normalizaion ?
+01:13:29	Amarendra Kushwaha:	1d array to 2d array
+01:13:39	Rameshkumar Sellamuthu:	where is xb
+01:15:28	Mahesha A S:	what is "d" ?
+01:15:40	sudhanshu kumar:	index = faiss.IndexFlatIP(1536)index.add(xb)
+01:15:56	Manish D:	where is xb defined?
+01:16:17	Vijay Rangvani:	 faiss.IndexFlatIP(1536) sir please explain indexflatIP again
+01:16:48	Anoop Kumar Sharma:	faiss stores the data on local system..
+01:17:45	Mustafa Kamaal:	Sir can you explain again please vstack()??
+01:17:48	Veerendra Shukla:	cool
+01:18:08	Md Akhtar:	what is the use of normalize
+01:18:09	Shilpi Agarwal:	Can we see the stored data in vectored
+01:21:41	Akash G:	Do we always need to use for loop for embedding generation or we can do it without for all as well, as using for loop may be time consuming in real time projects?
+01:21:43	sudhanshu kumar:	index_path = "index_sudhanshu.faiss"meta_path = "meta_sudhanshu.jsonl"
+01:21:43	Veerendra Shukla:	yes
+01:21:44	Amarendra Kushwaha:	yes
+01:21:46	Dr Girish Supekar:	yes
+01:21:47	Prabhakar Kumar:	extension can be excel or word ?
+01:21:47	Amit Kumar:	but we can store the same info in excel or some other format also...why FAISS?
+01:21:47	sudhanshu kumar:	faiss.write_index(index, index_path)
+01:21:56	kartik mojhindru:	meta_path will be same as writing indexes>
+01:22:02	kartik mojhindru:	or normal text file?
+01:22:05	Anoop Kumar Sharma:	saved the index. what about meta_path?
+01:22:18	Amit Kumar:	but we can store the same info in excel or some other format also...why FAISS?
+01:22:46	sudhanshu kumar:	with open(meta_path, "w") as f:    for item in meta:        f.write(json.dumps(item) + "\n")
+01:23:11	Manish D:	excellentbsir
+01:23:13	mukesh kumar:	what is jsonl
+01:23:13	Amarendra Kushwaha:	yes
+01:23:17	Gopi Krishna Pujari:	yes done sir
+01:23:30	Veerendra Shukla:	done
+01:23:48	mukesh kumar:	is faiss is a standard command ?
+01:24:42	Krishna Aleti:	getting duplicated content in the json, pls check urs once
+01:28:06	Prashant Rai:	this show 2 index is best
+01:28:12	Ajsal Mohammed T S:	1 will be accurate answer
+01:28:12	Selvamani A:	ind 2 content is more similar
+01:28:14	Shilpi Agarwal:	Array2 is best
+01:28:18	Prabhakar Kumar:	2 array is the most similar
+01:28:19	Prashant Rai:	its close to result
+01:28:21	Sai M:	chunk 2 and 1
+01:28:23	muhammad arslan:	its vector cosine similarty result and index number
+01:28:30	Dr Girish Supekar:	hig similarity score is first
+01:28:34	Akash G:	Is it necessary to normalize during reading & writing embedding?
+01:28:42	Satish K:	nearest result at index 2 for query
+01:29:02	GALI MALLIKARJUNA REDDY:	ss
+01:29:03	Amit Kumar:	faiss.normalize_L2(query_embedding)why we applied this?
+01:29:10	Rameshkumar Sellamuthu:	ping me the code
+01:31:13	sudhanshu kumar:	query = "who is sudhanshu"q = generate_embeddings(query).astype("float32").reshape(1, -1)faiss.normalize_L2(q)index.search(q, 5)
+01:31:21	Chirag Tyagi:	My output values are different- Since we have the same data, same model and pretty much the same code , should not our results be same?
+01:31:35	Shambhu jha:	I want response in the form of enlgish
+01:31:35	Amit Kumar:	faiss.normalize_L2(query_embedding)pls explain - why we applied this?
+01:31:57	Armaan Shaikh:	same result perfect
+01:32:08	Amit Kumar:	faiss.normalize_L2(query_embedding)pls explain - why we applied this?
+01:32:10	Veerendra Shukla:	I have the same result as yours
+01:32:23	RAMESHKUMAR SELLAMUTHU:	why we are mentioning re shape(1-1)
+01:33:23	Rajeev Dubey:	Also please explain how it is similar to cosine similarity check formula
+01:33:33	kartik mojhindru:	can we read index from the file, can we do an example of that?
+01:34:41	Shambhu jha:	emb_list.append(vec.astype("float32")) when casting to float?
+01:34:42	Chirag Tyagi:	QQ on tokens consumption! This embedding operation has used my 605 tokens per execution ( so 1800 for 3 different tries) . Can you please also explain how these different apis/models decide how many token will be used. This will help us estimating the budget in our real world applications. I know I still have almost all of my tokens from EURI api , but want to understand in general how this token consumption works!
+01:34:47	mukesh kumar:	what was vstack?
+01:35:05	kartik mojhindru:	can we read index from the file, can we do an example of that?
+01:35:05	mukesh kumar:	ook
+01:35:05	RAMESHKUMAR SELLAMUTHU:	why we are mentioning re shape(1-1)
+01:35:07	GALLA VENKAT:	This vector DB's also increase size like traditional sql systems?
+01:39:45	Arunava Nag:	is this L2 similar like we had in ML ridge regression ?
+01:39:51	Amit Kumar:	can we take only dot.product with out normalization?
+01:39:52	Akash G:	Have you applied normalize_L2 while writing all the embeddings as well?
+01:39:55	Veerendra Shukla:	yes
+01:40:42	Mustafa Kamaal:	Sir can you please summarise the entire process you did in this class, from storing raw data to inferencing
+01:41:18	Krishna Aleti:	how to we get tthe answer to question based on the array in vectordb?
+01:42:11	Manish D:	these all db work same ?
+01:42:15	sudhanshu kumar:	https://qdrant.tech/
+01:42:18	sudhanshu kumar:	https://www.pinecone.io/
+01:42:21	Mustafa Kamaal:	Sir can you please go with chromadb?
+01:42:22	sudhanshu kumar:	https://www.trychroma.com/
+01:42:26	sudhanshu kumar:	https://weaviate.io/
+01:42:58	kartik mojhindru:	why during searching we have not done faiss.IndexFlatIP(d)?
+01:43:26	navneet kumar:	is this cloud based
+01:46:19	Prashant Rai:	cluster mean machine?
+01:46:47	Biswatosh Samal:	yes
+01:46:49	Supreeeth Shetty:	yes sir
+01:46:54	Rachana C S:	yes
+01:46:55	piyush nandan:	multiple machine-cluster
+01:46:57	Prashant Rai:	what is cluster
+01:47:01	Arunava Nag:	are my queries even visible ? not seem to getting through to you for several classes now
+01:47:02	Prashant Rai:	ok
+01:47:44	RAMESHKUMAR SELLAMUTHU:	---------------------------------------------------------------------------ModuleNotFoundError                       Traceback (most recent call last)Cell In[38], line 1----> 1 from qdrant_client import QdrantClient      3 qdrant_client = QdrantClient(      4     url="https://4e58df22-1357-4b6d-9dae-65ec2d3e8380.us-east4-0.gcp.cloud.qdrant.io:6333",       5     api_key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.joAoDtEXPcF-_GhZge6MM_FRAS2AWYGbKUbJL6u0rGc",      6 )      8 print(qdrant_client.get_collections())ModuleNotFoundError: No module named 'qdrant_client'
+01:48:08	sudhanshu kumar:	pip install qdrant-client
+01:49:17	GALI MALLIKARJUNA REDDY:	s sir
+01:49:19	Dr Girish Supekar:	yes
+01:49:19	Challagundla Sreenivasulu:	sir quadrant code
+01:49:23	Veerendra Shukla:	Installed quadrant-client
+01:49:26	kartik mojhindru:	why during searching we have not done faiss.IndexFlatIP(d)?
+01:49:31	Challagundla Sreenivasulu:	can you paste here
+01:50:06	Anoop Kumar Sharma:	much similar to mongo
+01:51:38	Mustafa Kamaal:	Sir I installed pip install quadrant-client stilll getting this issue:
+01:51:39	Mustafa Kamaal:	Import "qdrant_client" could not be resolved
+01:52:08	Mustafa Kamaal:	**pip install qdrant-client
+01:53:46	Shivam Makwana:	from qdrant_client import QdrantClientqdrant_client = QdrantClient(    url="https://08d27bf7-395d-4722-8a14-c10804d77ab0.us-east-1-1.aws.cloud.qdrant.io:6333",     api_key="<your-api-key>",)print(qdrant_client.get_collections())
+01:53:54	muhammad arslan:	how this connect to our client?? due to url?
+01:54:13	Veerendra Shukla:	yes
+01:54:13	Supreeeth Shetty:	and API key
+01:54:17	Dr Girish Supekar:	yes
+01:54:35	Rameshkumar Sellamuthu:	send me the code
+01:54:45	Syed Waquaruddin:	can you share the code for cell 6
+01:55:11	mukesh kumar:	share above code
+01:55:25	sudhanshu kumar:	from qdrant_client import modelsqdrant_client.recreate_collection(    collection_name=collection_name,    vectors_config=models.VectorParams(        size=1536,distance=models.Distance.COSINE))
+01:56:19	muhammad arslan:	share connection code too
+01:57:20	Anoop Kumar Sharma:	that is in different fle
+01:57:23	Selvamani A:	chunks in different ipynb
+01:57:33	Supreeeth Shetty:	its a new notebook sir...
+01:57:36	Veerendra Shukla:	yes
+01:57:36	Armaan Shaikh:	sir import krlo
+01:58:01	mukesh kumar:	previous file also we can do
+01:58:49	sudhanshu kumar:	max_chars = 300overlap = 100chunks = []i = 0while i < len(data):    piece = data[i:i+max_chars]    if not piece:        break    chunks.append(piece)    i += max_chars - overlap
+02:02:11	sudhanshu kumar:	emb = []for i in chunks:     emb.append(generate_embeddings(i))
+02:02:17	sudhanshu kumar:	emnbeddings = np.array(    emb)
+02:03:26	Arunava Nag:	but u haven't yet L2 - normalized here ?
+02:04:59	sudhanshu kumar:	points = []for idx, (chunk,emb) in enumerate(zip(chunks, emnbeddings)):    points.append(        models.PointStruct(            id=idx,            vector=emb.astype("float32").tolist(),            payload={"text": chunk}        )    )
+02:06:17	Arunava Nag:	but before sending to Quadrant , should we have to normalize the embeddings  ?
+02:06:22	Veerendra Shukla:	yes
+02:06:33	Dr Girish Supekar:	yes
+02:06:42	Manish D:	is there any option to check the log?
+02:07:17	Arunava Nag:	but before sending to Quadrant , should we have to normalize the embeddings  ?
+02:07:37	Md Akhtar:	You aven't  L2 - normalized
+02:11:55	Armaan Shaikh:	but not accurate
+02:11:57	Veerendra Shukla:	yes
+02:11:59	Armaan Shaikh:	as before
+02:11:59	kartik mojhindru:	I am getting id 4
+02:12:00	Supreeeth Shetty:	yes..
+02:12:02	Biswatosh Samal:	yes
+02:12:03	Shivam Makwana:	yup
+02:12:03	Dr Girish Supekar:	yes
+02:12:04	GALI MALLIKARJUNA REDDY:	yes
+02:12:05	kartik mojhindru:	which is more aligned
+02:12:10	Ganesh Patil:	Yes
+02:12:13	Veerendra Shukla:	yes
+02:12:13	Shivam Makwana:	yes
+02:12:16	Shambhu jha:	but the response is not the complete sentence.
+02:12:22	Vikash Kumar:	yes almost same
+02:12:26	Armaan Shaikh:	sir accurate nai hai bas
+02:12:31	Supreeeth Shetty:	we missed normalization here... reset all is same
+02:12:36	Supreeeth Shetty:	rest*
+02:12:50	Rameshkumar Sellamuthu:	can you send me qdrant.ipynb code once you download sir whole
+02:13:11	Supreeeth Shetty:	Ohhh, ok sir...
+02:13:18	Shivam Makwana:	ok got it
+02:13:22	Mustafa Kamaal:	Sir can you please summarise everything you did from the beginning, one by one from storing raw data to inferencing and storing in vectordb then performing inferencing again.
+02:13:23	Rakesh Patil:	If we were using euclidean distance, we would need to normalize the vector
+02:13:28	Arunava Nag:	my question also -- but there was no response till now
+02:13:37	Krishna Aleti:	Which auto completion are you using in IDE? and you are getting the autocompleted code but without that where we got these codes from?
+02:13:49	Krishnapratap Vedula:	Can we use something else in DISTANCE?
+02:13:50	Arunava Nag:	I meant the normalixzaton part
+02:14:24	Vikash Kumar:	text embedding and it's retrieval looks good, but what about image, help us to understand that
+02:14:32	kartik mojhindru:	why during searching we have not done faiss.IndexFlatIP(d)?
+02:14:40	sandeep saraf:	can you please refer a flowchart which has what processess we are applying
+02:14:50	Biswatosh Samal:	plz paste last line code
+02:14:53	Akash G:	what is GRAPH option in Qdrant, why node colors changing?
+02:14:57	kartik mojhindru:	can you please explain the above question
+02:14:59	sudhanshu kumar:	qdrant_client.search(collection_name="sudhanshu_story", query_vector=q_vec, limit=5, with_payload=True)
+02:15:00	Veerendra Shukla:	please
+02:15:21	Amit Kumar:	with_payload=Truewhat does this do?
+02:15:29	kaushal gupta:	Not able to follow your pace.please attach this code in dashboard
+02:15:43	Armaan Shaikh:	why faiss was accurate and when using qdrant like accuracy seems bit low
+02:15:55	sandeep saraf:	thanks
+02:15:55	GALLA VENKAT:	Sir ,How much size of the vector db in euron?
+02:16:35	kartik mojhindru:	why during searching we have not done faiss.IndexFlatIP(d)?can you please explain the above question
+02:17:04	Mustafa Kamaal:	Sir does all of this that we studied also comes in data analysis or data science?
+02:17:06	BODHISATTVA DASH:	benefits of qdrant over FAISS? is that we can store metadata simultaneously in qdrant?
+02:17:37	Chirag Tyagi:	QQ on tokens consumption! This embedding operation has used my 605 tokens per execution ( so 1800 for 3 different tries) . Can you please also explain how these different apis/models decide how many token will be used. This will help us estimating the budget in our real world applications. I know I still have almost all of my tokens from EURI api , but want to understand in general how this token consumption works!
+02:17:58	Jatin Chandna:	Class over?
+02:18:03	sandeep saraf:	sir any banking usecase can we do
+02:18:06	RAMESHKUMAR SELLAMUTHU:	how did we update operation in qdrant sir?
+02:18:15	Mahesha A S:	As we are beginers, from next class please go bit slow
+02:18:17	Jatin Chandna:	Thanks sir!?
+02:18:28	Shivam Makwana:	Sir, at the end of class, could you please scroll the Qdrant.ipynb file? I want to take screenshots so I can fix what I missed after the lecture.
+02:18:39	navneet kumar:	can you upload big data till spark
+02:18:43	RAMESHKUMAR SELLAMUTHU:	what is an agenda to the next class sir
+02:18:46	kaushal gupta:	Please add this code in euro dash board
+02:18:46	navneet kumar:	pyspark
+02:18:47	Jatin Chandna:	Let’s meet in interview series 🙂
+02:19:04	mukesh kumar:	can we pull the data directly from the confluence page and create an search tool kind of chatgpt to serve the curative results. ?
+02:19:05	sandeep saraf:	sir any usecase kind of mini project
+02:19:30	Avinash Adsare:	yes
+02:20:48	navneet kumar:	what he will teach
+02:21:44	Vinoth Karunakaran:	English?
+02:22:03	Arunava Nag:	the L2 normalization u mentioned today , is it similar to the L2 that we had in ML algorithms ?
+02:22:19	Chirag Tyagi:	QQ on tokens consumption! This embedding operation has used my 605 tokens per execution ( so 1800 for 3 different tries) . Can you please also explain how these different apis/models decide how many token will be used. This will help us estimating the budget in our real world applications. I know I still have almost all of my tokens from EURI api , but want to understand in general how this token consumption works!
+02:22:19	Vinoth Karunakaran:	why not english?
+02:22:19	Challagundla Sreenivasulu:	sir do we have any content or bootcamp on pyspark
+02:22:26	Shilpi Agarwal:	Can we take euron plus now
+02:22:28	RAMESHKUMAR SELLAMUTHU:	can you send me the whole code for qdrant sir
+02:22:43	Shambhu jha:	not able to get the detailed FAISS documents
+02:22:54	kartik mojhindru:	why during searching we have not done faiss.IndexFlatIP(d)?can you please explain the above question
+02:23:06	Prashant Rai:	Data science ka hindi batch aayega kya sir
+02:23:25	Chirag Tyagi:	QQ on tokens consumption! This embedding operation has used my 605 tokens per execution ( so 1800 for 3 different tries) . Can you please also explain how these different apis/models decide how many token will be used. This will help us estimating the budget in our real world applications. I know I still have almost all of my tokens from EURI api , but want to understand in general how this token consumption works!
+02:23:38	Gauhar Ali Ali:	Sir language ki bahut problem hot hai
+02:23:44	Supreeeth Shetty:	You are just Amazing sir ... : )
+02:23:46	mukesh kumar:	I am getting the issue in conda. so need to share my screen
+02:23:46	Challagundla Sreenivasulu:	Hi Sir..how good it will be for ETL Developers
+02:23:55	saurav lakra:	any update on hybrid batch ?
+02:24:11	Chirag Tyagi:	Can we discuss this in doubt class?
+02:24:12	Chirag Tyagi:	QQ on tokens consumption! This embedding operation has used my 605 tokens per execution ( so 1800 for 3 different tries) . Can you please also explain how these different apis/models decide how many token will be used. This will help us estimating the budget in our real world applications. I know I still have almost all of my tokens from EURI api , but want to understand in general how this token consumption works!
+02:24:15	Vipin Vishal:	a big yes....
+02:24:15	mohit sanger:	amazing
+02:24:16	Challagundla Sreenivasulu:	super sir
+02:24:17	Dr Girish Supekar:	Good Idea
+02:24:17	navneet kumar:	it will good
+02:24:17	Biswatosh Samal:	great idea
+02:24:18	mukesh kumar:	it will be super
+02:24:19	muhammad arslan:	its ammazing
+02:24:20	Manish G:	euronkids
+02:24:20	Armaan Shaikh:	perfect
+02:24:20	BODHISATTVA DASH:	wowwww
+02:24:21	Shivam Makwana:	super idea
+02:24:21	Manish D:	tha t would be awesome
+02:24:22	Gauhar Ali Ali:	yes
+02:24:22	hemant gupta:	that's interesting..
+02:24:23	Ravikumar Pareet:	Super idea
+02:24:23	Sumit Sahoo:	it is good
+02:24:25	madhav chopra:	yes
+02:24:25	Santosh Vishwakarma:	That would be a great initiative
+02:24:27	navneet kumar:	its required
+02:24:27	Shambhu jha:	ETL developer is good but not just limit ur self only on ETL.. include GENAI as well
+02:24:28	Anil M:	its nice
+02:24:33	Krishna Aleti:	I don't feel good abt it, its required but after 15yrs maybe
+02:24:33	muhammad arslan:	young euron is very great
+02:24:35	Shilpi Agarwal:	They will learn more fast.
+02:24:36	Chakresh Kumar Vulli:	super idea sir would be yes even in usa and china they started teaching
+02:24:44	Aruna Kumar Behera:	it would be amazzing
+02:24:45	Dr Girish Supekar:	is should be interactive
+02:24:45	Ravikumar Pareet:	Definitely it is the right time to start for kids
+02:24:49	GALLA VENKAT:	Great idea
+02:24:52	Ganesh Patil:	yeah It will be very great step you will be doing
+02:24:53	Siddhartha Borpuzari:	have to make it very simple for kids, suitable for kids according to their maths
+02:24:54	Krishna Aleti:	I don't feel good abt it, its required but after highschool maybe
+02:24:58	Shilpi Agarwal:	After 15 years
+02:24:59	Sumit Sahoo:	if 5 6 class going for iitjee coaching..why not ai?
+02:25:05	Raj Dalsaniya:	that is good idea. best is to study them with some animation
+02:25:09	muhammad arslan:	young euron for 10th pass student but its in hindi ?
+02:25:10	Akash G:	I do not see any AI awareness in my state Bihar
+02:25:11	Santosh Vishwakarma:	Now in UAE, AI is included in kids syllabus
+02:25:14	mukesh kumar:	it will definitely will be big game changer.
+02:25:19	Shivam Makwana:	super idea sir u think visionary like Singapore gov... who dimploma course for 45+ age people
+02:25:20	Vipin Vishal:	China’s elementary students are introduced to AI education in schools
+02:25:42	Akash G:	Hardly teachers of primary education know about AI
+02:25:45	Shilpi Agarwal:	5-6 th class they are learning python
+02:25:49	Gauhar Ali Ali:	It’s a great idea
+02:25:55	Vipin Vishal:	Euron will do this in india
+02:26:07	Shivam Makwana:	good idea sir
+02:26:08	Akash G:	True, in tier 3 college this is the situation
+02:26:12	Mandar Aarondekar:	they know only chatgpt
+02:26:13	Shivam Makwana:	yeah
+02:26:18	Shilpi Agarwal:	Very good idea
+02:26:18	Dr Girish Supekar:	yes
+02:26:21	Vipin Vishal:	A BIG yes for this
+02:26:22	Vijay Rangvani:	Great Idea sir .. yes sir even some working professional in IT know properly about AI
+02:26:22	Supreeeth Shetty:	Big Yes...
+02:26:23	Arunava Nag:	what was the reason for vstack ?
+02:26:23	Anil M:	its nice idea, please start
+02:26:24	muhammad arslan:	yes its good idea but in hindi mediam
+02:26:24	Shilpi Agarwal:	I will send my kids
+02:26:26	Abhisheek Dutta:	Yes, we  should.
+02:26:28	Ravikumar Pareet:	Big yes
+02:26:32	Gauhar Ali Ali:	It’s a great idea
+02:26:35	Md Akhtar:	what age of students you are targeting kids for AI
+02:26:46	Deepak Jain:	what age group are you thinking?
+02:26:51	navneet kumar:	can you teach big data live also
+02:27:27	navneet kumar:	but live class is good
+02:27:30	Santosh Vishwakarma:	Yes
+02:27:30	Chakresh Kumar Vulli:	yes
+02:27:32	Krishnapratap Vedula:	Yes
+02:27:36	Anoop Kumar Sharma:	Yes
+02:27:36	Vipin Vishal:	yes..i do have in udemy as well
+02:27:39	Shilpi Agarwal:	Yes
+02:27:40	Shivam Makwana:	yeah
+02:27:54	Dr Girish Supekar:	it should be for individual as well for an organization like school
+02:27:59	Santosh Vishwakarma:	only 20-30%
+02:28:24	saurav lakra:	sir plz update hybrid course ?
+02:28:30	Avinash Adsare:	Thats a reality
+02:28:39	navneet kumar:	can you teach aws big data live
+02:28:48	Prodip Sarkar:	Sir please upload power BI or System design videos
+02:28:49	navneet kumar:	yes
+02:28:54	Shilpi Agarwal:	Yes
+02:28:59	Avinash Adsare:	Live lect far better
+02:29:00	Santosh Vishwakarma:	agree
+02:29:05	Aruna Kumar Behera:	in live classes the interaction is more and different querhy discustion
+02:29:07	Shilpi Agarwal:	Discipline
+02:29:23	Akash G:	True I've bought multiple courses on coursera and udemy but they're unused yet.
+02:30:04	Gauhar Ali Ali:	Sir language ki bahut problem hoti hai
+02:30:04	Abhisheek Dutta:	Here Politicians are busy building 5000 sq Ft flats for MPs. Where in the USA (Texas), they are building huge data centers ( for AGIs.
+02:30:05	Vijay Rangvani:	Prior to your classes i prefer to have Udemy course but after attending your live classes i can feel the difference it bring discipline
+02:30:05	mukesh kumar:	its like, some movie already released and I  can see anytime, but just imagine if new movie is going to release 1st time then you can see house full but later after 2 week, the movie will change because of already released.
+02:30:08	Shilpi Agarwal:	We enjoyed your live class
+02:30:16	Akash G:	Why should children learn AI, unless they get it's benefit in their school exam or they are self-motivated?
+02:30:17	muhammad arslan:	your logic is good
+02:30:21	navneet kumar:	atleast big data
+02:30:53	Gauhar Ali Ali:	Sir language ki bahut problem hoti hai
+02:31:02	kartik mojhindru:	why during searching we have not done faiss.IndexFlatIP(d)?
+02:31:02	Arunava Nag:	what was the reason for vstack ?
+02:31:05	Vinoth Karunakaran:	Will ADK and A2A will be covered in this course?
+02:31:07	Chirag Tyagi:	QQ on tokens consumption! This embedding operation has used my 605 tokens per execution ( so 1800 for 3 different tries) . Can you please also explain how these different apis/models decide how many token will be used. This will help us estimating the budget in our real world applications. I know I still have almost all of my tokens from EURI api , but want to understand in general how this token consumption works!
+02:31:13	Armaan Shaikh:	apart from mentor what part time opportunity available?
+02:31:17	Dr Girish Supekar:	thank you sir
+02:31:22	muhammad arslan:	ap hindi main start karna sir youn euri
+02:31:24	saurav lakra:	sir plz update hybrid batch ?
+02:31:28	mukesh kumar:	wanted to share my screen
+02:31:40	ravi teja:	want to share my screen
+02:33:03	Supreeeth Shetty:	flatIp
+02:33:57	Aruna Kumar Behera:	like we do search qeuery. i think we can do update/dalete operation in vector dB
+02:46:15	Supreeeth Shetty:	An HTTP 503 error, also known as "Service Unavailable," indicates that the server is temporarily unable to handle a request, and hence logs not recorded for your request
+02:46:38	Challagundla Sreenivasulu:	it is something we need to increase API timeout
+02:46:50	Challagundla Sreenivasulu:	for that particular target
+02:47:55	Supreeeth Shetty:	correct..
+02:48:10	mukesh kumar:	can I share my screen sir
+02:52:20	Vipin Vishal:	sahi dhoya aap ne influencer ko .. he he he
+02:52:28	Santosh Vishwakarma:	ekdam sahi
+02:53:26	Shivam Makwana:	🤣
+03:05:49	mohit sanger:	we can human in loop, give possible options to user then go for specific search
+03:08:06	Biswatosh Samal:	cloudfront pe regional blocking kar sakte ho
+03:10:11	Raj Dalsaniya:	same Sudhanshu sir told … https://medium.com/@sahin.samia/query-expansion-in-enhancing-retrieval-augmented-generation-rag-d41153317383
+03:14:50	Vipin Vishal:	check the uvicorm command in github
+03:14:58	Arunava Nag:	not added in PATH maybe
+03:15:43	Vipin Vishal:	@navneet
+pls check your uvicon command
+03:16:30	Shylaja V:	while trying to activate the vector db with conda command, it is asking to run init command, which i did, but the vectordb is not activated, what may be the issue?
+03:19:14	kartik mojhindru:	I am having one question can I go ahead next?
+03:23:36	Rajeev Dubey:	Sir screen nhi dikh raha hai ki aap kya kar rahe hai. installation ka issue mere me bhi hai ..if ur screen will be visible then that might help my problem too
+03:27:24	naresh kumar:	@navneet can you show your GitHub repo ?
+03:28:39	mukesh kumar:	hi sir, sorry I had call . can I share my screen after this.
+03:29:20	Shylaja V:	# To activate this environment, use
+#
+#     $ conda activate vectordb
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+PS D:\VSS_WS\GenAI> conda activate vectordb
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Tried running init, but still failing
+03:31:35	Krishnapratap Vedula:	Some code in Notepad is shared on the screen.
+03:32:37	Krishnapratap Vedula:	Is this the current query going on?
+03:37:40	mukesh kumar:	hi sir, can I share my screen now for my conda issue?
+03:45:39	Akhtar Nadeem:	I am dropping out thanks everyone
+03:49:44	Shylaja V:	@sudhanshu, need help in activating conda env
+03:52:33	Arunava Nag:	need to share screen for a couple of min
+04:11:48	Challagundla Sreenivasulu:	no
+04:11:50	GALLA VENKAT:	no

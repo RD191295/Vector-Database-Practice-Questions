@@ -1,0 +1,354 @@
+[
+  {
+    "code_id": 1,
+    "code": "def factorial(n):\n    return 1 if n == 0 else n * factorial(n - 1)",
+    "description": "Recursive function to calculate factorial of a number",
+    "tags": ["recursion", "math", "factorial"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 2,
+    "code": "for i in range(10):\n    print(i)",
+    "description": "Loop to print numbers from 0 to 9",
+    "tags": ["loop", "iteration"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 3,
+    "code": "import json\n\njson_data = json.dumps({'name': 'John', 'age': 30})",
+    "description": "Convert Python dictionary to JSON string",
+    "tags": ["json", "serialization"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 4,
+    "code": "def is_even(num):\n    return num % 2 == 0",
+    "description": "Check if a number is even",
+    "tags": ["number", "even", "condition"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 5,
+    "code": "with open('file.txt', 'r') as file:\n    content = file.read()",
+    "description": "Read contents from a text file",
+    "tags": ["file", "I/O"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 6,
+    "code": "try:\n    result = 10 / 0\nexcept ZeroDivisionError:\n    print('Cannot divide by zero')",
+    "description": "Handle division by zero exception",
+    "tags": ["exception", "error handling"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 7,
+    "code": "class Person:\n    def __init__(self, name):\n        self.name = name",
+    "description": "Define a simple Person class with a name attribute",
+    "tags": ["class", "OOP"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 8,
+    "code": "import datetime\n\nprint(datetime.datetime.now())",
+    "description": "Print current date and time",
+    "tags": ["datetime", "date", "time"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 9,
+    "code": "def fibonacci(n):\n    a, b = 0, 1\n    for _ in range(n):\n        a, b = b, a + b\n    return a",
+    "description": "Generate Fibonacci number at position n",
+    "tags": ["math", "sequence"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 10,
+    "code": "import os\n\nos.listdir('.')",
+    "description": "List files in current directory",
+    "tags": ["filesystem", "os"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 11,
+    "code": "def reverse_string(s):\n    return s[::-1]",
+    "description": "Reverse a string",
+    "tags": ["string", "reverse"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 12,
+    "code": "import math\n\nmath.sqrt(16)",
+    "description": "Calculate square root of a number",
+    "tags": ["math", "square root"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 13,
+    "code": "name = input('Enter your name: ')\nprint(f'Hello, {name}')",
+    "description": "Get user input and greet",
+    "tags": ["input", "user", "greeting"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 14,
+    "code": "import random\n\nprint(random.randint(1, 100))",
+    "description": "Generate a random integer between 1 and 100",
+    "tags": ["random", "number"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 15,
+    "code": "def merge_dicts(dict1, dict2):\n    return {**dict1, **dict2}",
+    "description": "Merge two dictionaries",
+    "tags": ["dictionary", "merge"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 16,
+    "code": "import sys\n\nprint(sys.version)",
+    "description": "Print Python interpreter version",
+    "tags": ["sys", "version"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 17,
+    "code": "def is_prime(n):\n    if n <= 1:\n        return False\n    for i in range(2, int(n ** 0.5) + 1):\n        if n % i == 0:\n            return False\n    return True",
+    "description": "Check if a number is prime",
+    "tags": ["number", "prime"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 18,
+    "code": "import requests\n\nresponse = requests.get('https://api.github.com')",
+    "description": "Make GET request to GitHub API",
+    "tags": ["HTTP", "requests"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 19,
+    "code": "def bubble_sort(arr):\n    n = len(arr)\n    for i in range(n):\n        for j in range(0, n - i - 1):\n            if arr[j] > arr[j + 1]:\n                arr[j], arr[j + 1] = arr[j + 1], arr[j]\n    return arr",
+    "description": "Sort list using bubble sort algorithm",
+    "tags": ["sorting", "algorithm"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 20,
+    "code": "import pandas as pd\n\ndf = pd.DataFrame({'A': [1, 2], 'B': [3, 4]})",
+    "description": "Create a pandas DataFrame",
+    "tags": ["pandas", "dataframe"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 21,
+    "code": "def binary_search(arr, target):\n    left, right = 0, len(arr) - 1\n    while left <= right:\n        mid = (left + right) // 2\n        if arr[mid] == target:\n            return mid\n        elif arr[mid] < target:\n            left = mid + 1\n        else:\n            right = mid - 1\n    return -1",
+    "description": "Binary search algorithm on a sorted array.",
+    "tags": ["search", "algorithm", "binary"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 22,
+    "code": "def factorial(n):\n    if n == 0:\n        return 1\n    return n * factorial(n-1)",
+    "description": "Recursive function to compute factorial.",
+    "tags": ["recursion", "math", "factorial"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 23,
+    "code": "def fibonacci(n):\n    a, b = 0, 1\n    seq = []\n    for _ in range(n):\n        seq.append(a)\n        a, b = b, a+b\n    return seq",
+    "description": "Generate Fibonacci sequence up to n numbers.",
+    "tags": ["sequence", "fibonacci", "math"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 24,
+    "code": "import requests\nresponse = requests.get('https://api.github.com')\nprint(response.status_code)",
+    "description": "Send a GET request to GitHub API.",
+    "tags": ["http", "requests", "api"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 25,
+    "code": "with open('file.txt', 'r') as f:\n    data = f.read()",
+    "description": "Read contents of a text file.",
+    "tags": ["file", "io", "read"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 26,
+    "code": "with open('file.txt', 'w') as f:\n    f.write('Hello World')",
+    "description": "Write text to a file.",
+    "tags": ["file", "io", "write"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 27,
+    "code": "import re\npattern = r'\\d+'\nresult = re.findall(pattern, 'My number is 12345')",
+    "description": "Find all numbers in a string using regex.",
+    "tags": ["regex", "search", "string"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 28,
+    "code": "squared = [x**2 for x in range(10)]",
+    "description": "List comprehension to square numbers 0-9.",
+    "tags": ["list", "comprehension", "math"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 29,
+    "code": "nums = [1,2,3,4,5]\neven = list(filter(lambda x: x%2==0, nums))",
+    "description": "Filter even numbers using lambda.",
+    "tags": ["lambda", "filter", "list"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 30,
+    "code": "nums = [1,2,3,4]\nresult = list(map(lambda x: x*2, nums))",
+    "description": "Double each element with map and lambda.",
+    "tags": ["map", "lambda", "list"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 31,
+    "code": "from collections import Counter\ncnt = Counter(['a','b','a','c','b','a'])",
+    "description": "Count frequency of elements in a list.",
+    "tags": ["collections", "counter", "frequency"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 32,
+    "code": "import pandas as pd\ndf = pd.DataFrame({'A':[1,2], 'B':[3,4]})",
+    "description": "Create a simple pandas DataFrame.",
+    "tags": ["pandas", "dataframe"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 33,
+    "code": "import numpy as np\narr = np.array([1,2,3])\nprint(arr.mean())",
+    "description": "Compute mean of NumPy array.",
+    "tags": ["numpy", "array", "mean"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 34,
+    "code": "def is_palindrome(s):\n    return s == s[::-1]",
+    "description": "Check if a string is palindrome.",
+    "tags": ["string", "palindrome"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 35,
+    "code": "class Dog:\n    def __init__(self, name):\n        self.name = name\n    def bark(self):\n        return f'{self.name} says woof!'",
+    "description": "Define a Dog class with bark method.",
+    "tags": ["oop", "class", "dog"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 36,
+    "code": "import json\nperson = {'name': 'Alice', 'age': 25}\njson_str = json.dumps(person)",
+    "description": "Convert dict to JSON string.",
+    "tags": ["json", "serialization", "dict"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 37,
+    "code": "import random\nprint(random.randint(1,10))",
+    "description": "Generate random integer between 1 and 10.",
+    "tags": ["random", "number", "integer"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 38,
+    "code": "def gcd(a,b):\n    while b:\n        a,b = b,a%b\n    return a",
+    "description": "Compute greatest common divisor.",
+    "tags": ["math", "gcd", "algorithm"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 39,
+    "code": "def lcm(a,b):\n    from math import gcd\n    return abs(a*b)//gcd(a,b)",
+    "description": "Compute least common multiple.",
+    "tags": ["math", "lcm", "algorithm"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 40,
+    "code": "words = ['apple','banana','cherry']\nwords.sort()",
+    "description": "Sort a list of strings alphabetically.",
+    "tags": ["list", "sort", "strings"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 41,
+    "code": "import datetime\nnow = datetime.datetime.now()",
+    "description": "Get current date and time.",
+    "tags": ["datetime", "now", "timestamp"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 42,
+    "code": "def reverse_string(s):\n    return s[::-1]",
+    "description": "Reverse a string.",
+    "tags": ["string", "reverse"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 43,
+    "code": "matrix = [[1,2],[3,4]]\ntransposed = list(zip(*matrix))",
+    "description": "Transpose a 2D matrix.",
+    "tags": ["matrix", "transpose"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 44,
+    "code": "import math\nprint(math.sqrt(16))",
+    "description": "Compute square root using math module.",
+    "tags": ["math", "sqrt"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 45,
+    "code": "set1 = {1,2,3}\nset2 = {3,4,5}\nprint(set1 & set2)",
+    "description": "Find intersection of two sets.",
+    "tags": ["set", "intersection"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 46,
+    "code": "from itertools import permutations\nprint(list(permutations([1,2,3])))",
+    "description": "Generate permutations of a list.",
+    "tags": ["itertools", "permutations"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 47,
+    "code": "from itertools import combinations\nprint(list(combinations([1,2,3],2)))",
+    "description": "Generate 2-combinations of a list.",
+    "tags": ["itertools", "combinations"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 48,
+    "code": "squares = {x:x**2 for x in range(5)}",
+    "description": "Dictionary comprehension for squares.",
+    "tags": ["dict", "comprehension"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 49,
+    "code": "try:\n    x = 1/0\nexcept ZeroDivisionError:\n    print('Cannot divide by zero')",
+    "description": "Handle division by zero error.",
+    "tags": ["exception", "error", "try-except"],
+    "coding_language": "Python"
+  },
+  {
+    "code_id": 50,
+    "code": "import sys\nprint(sys.version)",
+    "description": "Print Python version.",
+    "tags": ["system", "version", "python"],
+    "coding_language": "Python"
+  }
+]
+
+

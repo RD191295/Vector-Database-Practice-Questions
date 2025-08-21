@@ -1,0 +1,302 @@
+[
+  {
+    "news_article_no": 1,
+    "headline": "AI Breakthrough in Medical Diagnostics",
+    "content": "Researchers have developed an AI system capable of diagnosing rare diseases with unprecedented accuracy, revolutionizing healthcare diagnostics worldwide.",
+    "source": "TechDaily News"
+  },
+  {
+    "news_article_no": 2,
+    "headline": "Global Leaders Convene for Climate Summit",
+    "content": "World leaders gather to discuss strategies for combating climate change, emphasizing the role of geopolitics in environmental policies.",
+    "source": "International Times"
+  },
+  {
+    "news_article_no": 3,
+    "headline": "Tesla Reports Record Quarterly Revenue",
+    "content": "Tesla has announced a new quarterly revenue record, driven by increased sales of electric vehicles and expansion into new markets.",
+    "source": "Business Today"
+  },
+  {
+    "news_article_no": 4,
+    "headline": "Stock Market Surge Amid Tech Boom",
+    "content": "The stock market experienced a significant rally as technology stocks surged on strong earnings reports and investor optimism.",
+    "source": "Market Watch"
+  },
+  {
+    "news_article_no": 5,
+    "headline": "AI-Powered Financial Trading Platforms Gain Popularity",
+    "content": "Financial firms are increasingly adopting AI-driven trading platforms to gain a competitive edge in stock market investments.",
+    "source": "Financial News"
+  },
+  {
+    "news_article_no": 6,
+    "headline": "Geopolitical Tensions Rise in the Middle East",
+    "content": "Recent conflicts and diplomatic disputes have heightened tensions in the Middle East, impacting regional stability and global oil markets.",
+    "source": "Global Politics Today"
+  },
+  {
+    "news_article_no": 7,
+    "headline": "AI Ethics and Regulation Debated at UN",
+    "content": "United Nations officials discuss the ethical implications and the need for regulation of artificial intelligence technologies.",
+    "source": "World News Network"
+  },
+  {
+    "news_article_no": 8,
+    "headline": "China’s Tech Giants Invest Heavily in AI",
+    "content": "Leading Chinese technology firms are investing billions into artificial intelligence research to compete globally.",
+    "source": "Asia Tech Review"
+  },
+  {
+    "news_article_no": 9,
+    "headline": "European Union Implements AI Regulation Framework",
+    "content": "The EU has introduced new regulations to ensure ethical use of AI, impacting companies operating within its jurisdiction.",
+    "source": "European Business Journal"
+  },
+  {
+    "news_article_no": 10,
+    "headline": "Stock Market Volatility Amid Geopolitical Uncertainty",
+    "content": "Investors remain cautious as geopolitical tensions contribute to increased stock market volatility worldwide.",
+    "source": "Finance Daily"
+  },
+  {
+    "news_article_no": 11,
+    "headline": "AI in Art and Creativity: New Horizons",
+    "content": "Artists and technologists collaborate to explore AI-generated art, opening new frontiers in creative industries.",
+    "source": "Creative Tech Magazine"
+  },
+  {
+    "news_article_no": 12,
+    "headline": "US and Russia Engage in Cybersecurity Diplomacy",
+    "content": "Diplomatic talks aim to address rising concerns over cyber warfare and artificial intelligence weaponization.",
+    "source": "Diplomacy Today"
+  },
+  {
+    "news_article_no": 13,
+    "headline": "Major Investment Bank Launches AI Advisory Services",
+    "content": "Leading financial institutions are introducing AI-based advisory platforms to enhance client services and investment decisions.",
+    "source": "Financial Times"
+  },
+  {
+    "news_article_no": 14,
+    "headline": "Stock Markets React to Federal Reserve Policy Changes",
+    "content": "Investors react positively to the Federal Reserve's decision to pause interest rate hikes, boosting stock prices.",
+    "source": "Bloomberg"
+  },
+  {
+    "news_article_no": 15,
+    "headline": "AI Tools Transform Supply Chain Management",
+    "content": "Companies leverage AI to optimize logistics, reduce costs, and improve efficiency in supply chain operations.",
+    "source": "Supply Chain Insights"
+  },
+  {
+    "news_article_no": 16,
+    "headline": "Middle East Peace Talks Stalled",
+    "content": "Diplomatic negotiations between conflicting parties in the Middle East face setbacks, impacting regional stability.",
+    "source": "Global Politics Review"
+  },
+  {
+    "news_article_no": 17,
+    "headline": "AI and Data Privacy Concerns Escalate",
+    "content": "As AI adoption increases, concerns over data privacy and security are prompting calls for stricter regulations.",
+    "source": "Cybersecurity Today"
+  },
+  {
+    "news_article_no": 18,
+    "headline": "Indian Tech Sector Boosted by AI Innovation",
+    "content": "India's technology industry experiences growth as startups and giants invest heavily in artificial intelligence.",
+    "source": "India Business News"
+  },
+  {
+    "news_article_no": 19,
+    "headline": "Global Stock Markets Suffer Amid Geopolitical Crises",
+    "content": "Escalating conflicts in various regions lead to declines across global equity markets.",
+    "source": "Financial Times"
+  },
+  {
+    "news_article_no": 20,
+    "headline": "AI in Autonomous Vehicles: Progress and Challenges",
+    "content": "Advancements in AI enable safer autonomous driving, though regulatory and technical hurdles remain.",
+    "source": "Automotive Tech Weekly"
+  },
+  {
+    "news_article_no": 21,
+    "headline": "EU and US Collaborate on AI Research Initiatives",
+    "content": "Transatlantic cooperation aims to accelerate AI development while ensuring ethical standards.",
+    "source": "International Science News"
+  },
+  {
+    "news_article_no": 22,
+    "headline": "Major Tech Companies Report Strong Earnings Driven by AI",
+    "content": "Apple, Google, and Microsoft report record profits, citing AI innovations as key growth drivers.",
+    "source": "Business Insider"
+  },
+  {
+    "news_article_no": 23,
+    "headline": "Geopolitical Instability Threatens Global Supply Chains",
+    "content": "Conflicts and political unrest disrupt supply chains, impacting manufacturing and trade globally.",
+    "source": "Global Trade Journal"
+  },
+  {
+    "news_article_no": 24,
+    "headline": "AI-Powered Customer Service Gains Adoption",
+    "content": "Businesses increasingly deploy AI chatbots to improve customer engagement and reduce operational costs.",
+    "source": "Customer Service Magazine"
+  },
+  {
+    "news_article_no": 25,
+    "headline": "South Korea's Tech Sector Focuses on AI Development",
+    "content": "South Korean companies are investing heavily in AI research to stay competitive in the tech industry.",
+    "source": "Asia Tech Review"
+  },
+  {
+    "news_article_no": 26,
+    "headline": "US-China Tech Rivalry Intensifies with AI Race",
+    "content": "The United States and China escalate their competition in artificial intelligence research and development.",
+    "source": "Global Tech Monitor"
+  },
+  {
+    "news_article_no": 27,
+    "headline": "Stock Market Reacts to Earnings Reports from Major Corporations",
+    "content": "Strong quarterly results from key companies boost market indices, while disappointing reports cause declines.",
+    "source": "MarketWatch"
+  },
+  {
+    "news_article_no": 28,
+    "headline": "AI in Financial Fraud Detection Enhances Security",
+    "content": "Banks deploy AI systems to identify and prevent fraudulent transactions more effectively.",
+    "source": "Financial Security News"
+  },
+  {
+    "news_article_no": 29,
+    "headline": "Diplomatic Efforts to De-escalate Middle East Conflicts Continue",
+    "content": "International diplomacy seeks to mediate and reduce tensions in the Middle East region.",
+    "source": "Diplomatic Affairs Journal"
+  },
+  {
+    "news_article_no": 30,
+    "headline": "AI Startups Attract Record Funding in Silicon Valley",
+    "content": "Venture capitalists pour billions into AI startups, signaling strong confidence in AI's future potential.",
+    "source": "Venture Capital News"
+  },
+  {
+    "news_article_no": 31,
+    "headline": "Global Economic Outlook: Growth Slows Due to Geopolitical Uncertainty",
+    "content": "Economists warn that ongoing geopolitical tensions may slow global economic growth in the coming year.",
+    "source": "World Economic Review"
+  },
+  {
+    "news_article_no": 32,
+    "headline": "AI-Powered Language Translation Breakthrough",
+    "content": "New AI models significantly improve real-time language translation accuracy, fostering international communication.",
+    "source": "Language Tech Journal"
+  },
+  {
+    "news_article_no": 33,
+    "headline": "European Countries Lead in AI Ethical Standards",
+    "content": "Several European nations set global benchmarks for ethical AI development and deployment.",
+    "source": "European Policy Review"
+  },
+  {
+    "news_article_no": 34,
+    "headline": "Tech Giants Face Scrutiny Over AI Bias Issues",
+    "content": "Major technology companies are under investigation for biases present in their AI systems.",
+    "source": "Cyber Ethics Daily"
+  },
+  {
+    "news_article_no": 35,
+    "headline": "Stock Markets Rally on Central Bank Stimulus Announcements",
+    "content": "Global stock indices rise as central banks announce measures to stimulate economic growth.",
+    "source": "Finance Today"
+  },
+  {
+    "news_article_no": 36,
+    "headline": "AI-Driven Personalization Boosts E-Commerce Sales",
+    "content": "Retailers leverage AI to offer personalized shopping experiences, increasing conversion rates.",
+    "source": "E-Commerce Weekly"
+  },
+  {
+    "news_article_no": 37,
+    "headline": "Geopolitical Disputes Disrupt Oil Markets",
+    "content": "Conflicts in key oil-producing regions lead to price volatility and supply concerns.",
+    "source": "Energy Market Watch"
+  },
+  {
+    "news_article_no": 38,
+    "headline": "AI in Cybersecurity: The Next Frontier",
+    "content": "Advanced AI systems are being deployed to detect and combat cyber threats more effectively.",
+    "source": "Cybersecurity Magazine"
+  },
+  {
+    "news_article_no": 39,
+    "headline": "Global Tech Conference Highlights AI Innovations",
+    "content": "Leaders and innovators showcase cutting-edge AI applications shaping the future of technology.",
+    "source": "TechWorld"
+  },
+  {
+    "news_article_no": 40,
+    "headline": "China’s AI Industry Seeks to Lead Global Market",
+    "content": "Government policies and investments aim to position China as a dominant force in AI development.",
+    "source": "Asia Business Review"
+  },
+  {
+    "news_article_no": 41,
+    "headline": "US and European Countries Discuss AI Regulation",
+    "content": "Policy-makers collaborate to develop international standards for responsible AI use.",
+    "source": "Policy Today"
+  },
+  {
+    "news_article_no": 42,
+    "headline": "Stock Market Correction Amid Inflation Fears",
+    "content": "Investors pull back as inflation concerns prompt fears of tightening monetary policy.",
+    "source": "Financial Times"
+  },
+  {
+    "news_article_no": 43,
+    "headline": "AI in Agriculture: Increasing Yields and Sustainability",
+    "content": "Farmers adopt AI tools for crop monitoring and resource management, enhancing productivity.",
+    "source": "AgriTech News"
+  },
+  {
+    "news_article_no": 44,
+    "headline": "Geopolitical Shifts Reshape Global Trade Alliances",
+    "content": "New trade agreements and disputes are realigning international economic partnerships.",
+    "source": "Global Trade Review"
+  },
+  {
+    "news_article_no": 45,
+    "headline": "AI Privacy Regulations Proposed by US Congress",
+    "content": "Legislators introduce bills aimed at protecting consumer data in the age of AI.",
+    "source": "Legislative Watch"
+  },
+  {
+    "news_article_no": 46,
+    "headline": "Stock Market Gains as Corporate Earnings Surpass Expectations",
+    "content": "Strong earnings reports lead to bullish sentiment among investors worldwide.",
+    "source": "Market News"
+  },
+  {
+    "news_article_no": 47,
+    "headline": "AI in Healthcare: Improving Patient Outcomes",
+    "content": "AI-powered tools assist doctors in diagnosing and treating diseases more effectively.",
+    "source": "Healthcare Tech Review"
+  },
+  {
+    "news_article_no": 48,
+    "headline": "Regional Conflicts Impact Global Financial Markets",
+    "content": "Political instability in key regions causes fluctuations in currency and stock markets.",
+    "source": "Financial Times"
+  },
+  {
+    "news_article_no": 49,
+    "headline": "AI Startups Attract Record Investment in 2023",
+    "content": "Venture capitalists poured unprecedented funds into AI startups during the first half of the year.",
+    "source": "Venture Capital Journal"
+  },
+  {
+    "news_article_no": 50,
+    "headline": "Global Economic Recovery Faces Challenges Due to Geopolitical Risks",
+    "content": "Uncertainty surrounding international conflicts hampers global economic rebound efforts.",
+    "source": "World Economic Outlook"
+  }
+]

@@ -1,0 +1,68 @@
+Job Title: Software Developer (5+ Years Experience)
+Job Overview:
+
+We are seeking an experienced Software Developer with over 5 years of professional expertise in designing, developing, and maintaining scalable software applications. The ideal candidate will have strong problem-solving skills, hands-on experience with modern programming languages, frameworks, and cloud platforms, and the ability to work collaboratively in agile teams.
+
+Key Responsibilities:
+
+Design, develop, test, and deploy high-quality software solutions.
+
+Collaborate with product managers, designers, and QA teams to define requirements and deliver robust features.
+
+Write clean, maintainable, and efficient code following industry best practices.
+
+Perform code reviews, provide constructive feedback, and mentor junior developers.
+
+Troubleshoot, debug, and resolve complex technical issues.
+
+Optimize applications for performance, scalability, and security.
+
+Work with cloud platforms (AWS/Azure/GCP) to build and manage deployments.
+
+Maintain documentation of software design, architecture, and technical processes.
+
+Participate in agile ceremonies (stand-ups, sprint planning, retrospectives).
+
+Stay updated with emerging technologies, tools, and frameworks to continuously improve development practices.
+
+Required Skills & Qualifications:
+
+Bachelor’s degree in Computer Science, Engineering, or related field (or equivalent experience).
+
+5+ years of experience in software development.
+
+Strong proficiency in one or more programming languages (e.g., Python, Java, C#, or JavaScript/TypeScript).
+
+Experience with web frameworks (e.g., Django, Spring Boot, .NET Core, React, Angular, or Node.js).
+
+Solid understanding of object-oriented programming (OOP), data structures, and algorithms.
+
+Hands-on experience with databases (SQL/NoSQL).
+
+Experience with RESTful APIs, microservices, and cloud-native applications.
+
+Familiarity with CI/CD pipelines, version control (Git), and containerization (Docker/Kubernetes).
+
+Knowledge of software testing methodologies (unit, integration, automation).
+
+Strong analytical, debugging, and problem-solving skills.
+
+Excellent communication skills and ability to work in a team-oriented environment.
+
+Preferred Skills:
+
+Experience with DevOps practices and infrastructure as code (Terraform, Ansible).
+
+Knowledge of machine learning, data engineering, or big data technologies is a plus.
+
+Prior experience mentoring junior developers or leading small teams.
+
+What We Offer:
+
+Competitive salary and benefits package.
+
+Opportunity to work with cutting-edge technologies.
+
+Professional growth through training, mentorship, and certifications.
+
+Collaborative, inclusive, and innovative work environment.
