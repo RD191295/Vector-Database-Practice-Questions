@@ -42,8 +42,8 @@ This repository contains practice exercises around vector embeddings and similar
 2. **Create & activate virtual environment:**
 
    ```bash
-   python -m venv venv
-   source venv/bin/activate   # On Windows, use: venv\Scripts\activate
+   conda create -n venv python==3.10    # for this assignment i have used python 3.10
+   conda activate venv                  # Activate 
    ```
 
 3. **Install dependencies:**
